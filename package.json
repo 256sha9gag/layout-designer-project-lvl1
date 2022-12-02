@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "htmlhint": "^1.1.4",
     "htmlhintrc": "^1.0.1",
     "stylelintrc": "^1.0.8"
   },
