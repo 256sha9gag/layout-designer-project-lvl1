@@ -2,6 +2,7 @@
   "devDependencies": {
     "htmlhint": "^1.1.4",
     "htmlhintrc": "^1.0.1",
+    "postcss": "^8.4.19",
     "postcss-less": "^6.0.0",
     "stylelint": "^14.15.0",
     "stylelint-config-rational-order": "^0.0.4",
@@ -10,7 +11,7 @@
     "stylelint-order": "^5.0.0",
     "stylelint-scss": "^4.3.0",
     "stylelintrc": "^1.0.8",
-    "surge": "^0.23.1"
+    "surge": "^0.9.0"
   },
   "name": "layout-designer-project-lvl1",
   "description": "[![Actions Status](https://github.com/256sha9gag/layout-designer-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/256sha9gag/layout-designer-project-lvl1/actions)",
