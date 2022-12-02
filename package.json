@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "htmlhintrc": "^1.0.1"
+  },
+  "name": "layout-designer-project-lvl1",
+  "description": "[![Actions Status](https://github.com/256sha9gag/layout-designer-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/256sha9gag/layout-designer-project-lvl1/actions)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/256sha9gag/layout-designer-project-lvl1.git"
+  },
+  "author": "Gagik Gabrielyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/256sha9gag/layout-designer-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/256sha9gag/layout-designer-project-lvl1#readme"
+}
