@@ -2,7 +2,7 @@ install:
 	npm install
 
 lint:
-	npx htmlhint ./src/index.html
+	npx htmlhint ./src/*.html
 
 deploy:
 	npx surge ./src/
