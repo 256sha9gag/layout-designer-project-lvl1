@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "htmlhintrc": "^1.0.1"
+    "htmlhintrc": "^1.0.1",
+    "stylelintrc": "^1.0.8"
   },
   "name": "layout-designer-project-lvl1",
   "description": "[![Actions Status](https://github.com/256sha9gag/layout-designer-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/256sha9gag/layout-designer-project-lvl1/actions)",
