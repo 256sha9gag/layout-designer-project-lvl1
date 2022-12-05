@@ -1,11 +1,11 @@
 {
     "extends": [
-      "stylelint-config-standard"   
+      "stylelint-config-standard",
+      "stylelint-config-rational-order" 
     ],
     "plugins": [
-        "stylelint-order",
-        "stylelint-config-rational-order/plugin"
-      ],
+        "stylelint-order"
+    ],
       "rules": {
         "order/properties-order": [],
         "plugin/rational-order": [true, {
