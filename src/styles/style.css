@@ -1,4 +1,25 @@
 /** CSS STYLE **/
+:root {
+    --orange-color: #FE8A02;
+}
+
+@font-face {
+    font-family: "OpenSansBold";
+    src: url("../assets/fonts/OpenSans/OpenSans-Bold.ttf");
+}
+
+.h1-size {
+  size: 72px;
+}
+
+.content-header {
+    color: white;
+    font-family: "OpenSansBold";
+}
+
+.block-header {
+    background-color:  var(--orange-color);
+}
 
 .hello {
   display: block;
