@@ -5,7 +5,7 @@
     ],
     "plugins": [
         "stylelint-order",
-        "stylelint-config-rational-order/plugin"
+        "stylelint-config-rational-order"
       ],
       "rules": {
         "order/properties-order": [],
