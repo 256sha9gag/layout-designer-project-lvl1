@@ -1,27 +1,51 @@
 /** CSS STYLE **/
 :root {
-    --orange-color: #FE8A02;
+  /** colors **/
+  --white-color: #fff;
+  --translucent-white-color: #d7ccc0;
+  --light-color: #f5f4f0;
+  --main-orange-color: #fe8a02;
+  --main-dark-color: #42413c;
+  --dark-color: #2a2626;
+  --translucent-dark-color: #908d8b;
+  --brown-color: #b09a81;
+  --blue-color: #1085c5;
 }
 
 @font-face {
-    font-family: "OpenSansBold";
-    src: url("../assets/fonts/OpenSans/OpenSans-Bold.ttf");
+  font-family: Neucha-Regular;
+  src: url("../assets/fonts/Neucha-Regular.ttf");
 }
 
-.h1-size {
-  size: 72px;
+@font-face {
+  font-family: OpenSans-Regular;
+  src: url("../assets/fonts/OpenSans-Regular.ttf");
 }
 
-.content-header {
-    color: white;
-    font-family: "OpenSansBold";
+.h1-style {
+  font-size: 72px;
+  line-height: 1.2em;
 }
 
-.block-header {
-    background-color:  var(--orange-color);
+.h2-style {
+  font-size: 60px;
+  line-height: 1.2em;
 }
 
-.hello {
-  display: block;
-  color: #fff;
+.h3-style {
+  font-size: 34px;
+  line-height: 1.2em;
+}
+
+.p-style {
+  color: var(--dark-color);
+  font-size: 16px;
+  line-height: 1.6em;
+}
+
+.main-style {
+  width: 100%;
+  max-width: 1110px;
+  padding: 100px 0;
+  text-align: center;
 }
